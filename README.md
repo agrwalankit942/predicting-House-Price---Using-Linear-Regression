@@ -52,6 +52,8 @@ R-squared Score (R²)
 6. Data Visualization
 📈 Regression Line Plot
 📊 Predicted vs Actual Values
+<img width="678" height="547" alt="image" src="https://github.com/user-attachments/assets/9d72bf24-da72-468f-9982-a8cb0670f706" />
+
 🔥 Correlation Heatmap
 
 📊 Key Insights
